@@ -4,6 +4,8 @@ https://www.cs.jhu.edu/~huang/cs318/fall18/index.html
 https://cs140e.sergio.bz/
 
 proj:
+https://github.com/freedomtan/aarch64-bare-metal-qemu
+
 https://toscode.gitee.com/panda8z/r-os
 https://github.com/rcore-os/rcore
 https://github.com/rcore-os/rCore-Tutorial
